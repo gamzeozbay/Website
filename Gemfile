@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
-gem 'jekyll', '<4'
+gem 'jekyll'
 gem 'jekyll-archives'
 gem 'jekyll-sitemap'
 gem 'jekyll-paginate-v2'
+gem "kramdown-parser-gfm"
+gem "base64"
+gem "bigdecimal"
+gem "webrick"
+gem "rexml"
